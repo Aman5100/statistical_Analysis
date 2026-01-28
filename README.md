@@ -62,6 +62,6 @@ Outcomes & Insights:
 
 4)Older customers tend to have higher days since last interaction, showing lower engagement.
 
-Spending behavior differs across states, indicating potential for region-specific marketing strategies.
+5)Spending behavior differs across states, indicating potential for region-specific marketing strategies.
 
-Marital status and number of pets show a measurable association based on the chi-square test.
+6)Marital status and number of pets show a measurable association based on the chi-square test.
